@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_prox_coletas"
+            android:icon="@drawable/ic_menu_prox_coletas"
+            android:title="@string/menu_coletas" />
+        <item
+            android:id="@+id/nav_dados_conta"
+            android:icon="@drawable/ic_menu_dados_conta"
+            android:title="@string/menu_dados" />
+        <item
+            android:id="@+id/nav_como_usar"
+            android:icon="@drawable/ic_menu_como_usar"
+            android:title="@string/menu_como_usar" />
+    </group>
+
+    <item android:title="@string/menu_converse">
+        <menu>
+            <item
+                android:id="@+id/nav_ligar_carbox"
+                android:icon="@drawable/ic_telephone"
+                android:title="@string/texto_ligue_cargox" />
+            <item
+                android:id="@+id/nav_chat"
+                android:icon="@drawable/ic_chat"
+                android:title="@string/texto_chat" />
+        </menu>
+    </item>
+
+    <item android:title="@string/menu_info">
+        <menu>
+            <item
+                android:id="@+id/nav_termos"
+                android:icon="@drawable/ic_menu_termos"
+                android:title="@string/menu_termos" />
+            <item
+                android:id="@+id/nav_privacidade"
+                android:icon="@drawable/ic_menu_privacidade"
+                android:title="@string/menu_privacidade" />
+            <item
+                android:id="@+id/nav_versao"
+                android:enabled="false"
+                android:icon="@drawable/ic_menu_versao"
+                android:title="@string/menu_versao" />
+        </menu>
+    </item>
+
+</menu>

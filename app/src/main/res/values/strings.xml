@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Teste</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!--ITENS MENU-->
+    <string name="menu_coletas">Próximas coletas</string>
+    <string name="menu_dados">Dados da conta</string>
+    <string name="menu_info">Informações legais</string>
+    <string name="menu_como_usar">Como usar o app?</string>
+    <string name="menu_termos">Termos de uso</string>
+    <string name="menu_privacidade">Privacidade</string>
+    <string name="menu_versao">Versão 1.1.1</string>
+
+    <string name="em_rota">Em Rota</string>
+
+    <string name="menu_converse">Converse conosco</string>
+
+    <!--CARD-->
+    <string name="titulo_card_data_hora">Data e hora da coleta</string>
+    <string name="titulo_previsao_chegada">Previsão de chegada</string>
+    <string name="cte">CTe</string>
+    <string name="adiant">Adiant.</string>
+    <string name="titulo_card_coletar_em">Coletar em</string>
+    <string name="titulo_card_entregar_em">Entregar em</string>
+    <string name="ver_detalhes">Ver detalhes</string>
+    <string name="ver_menos">Ver menos</string>
+    <string name="ver_ordem_coleta">Ver ordem de coleta</string>
+    <string name="em_transito">Em trânsito</string>
+    <string name="veiculo">Veículo</string>
+    <string name="produtos">Produtos</string>
+    <string name="peso">Peso</string>
+
+    <string name="vou_coletar">VOU COLETAR</string>
+    <string name="descarregar">CHEGUEI PARA DESCARREGAR</string>
+
+    <string name="texto_deslizar">Deslize para ver mais cargas</string>
+
+    <!--DIALOG CTe e Adiant.-->
+    <string name="texto_dialog_cte">A documentação do seu frete (CTe) foi gerada e enviada para o cliente</string>
+    <string name="texto_dialog_adiant">O pagamento da parcela de adiantamento do seu frete foi realizado</string>
+    <string name="texto_btn_entendi">ENTENDI</string>
+
+    <!--DIALOG Contatos-->
+    <string name="texto_ligue_cargox">Ligue para a CargoX gratuitamente</string>
+    <string name="telefone_cargox">0800-591-5129</string>
+    <string name="texto_fale_conosco">Fale conosco pelo nosso</string>
+    <string name="texto_chat">Chat</string>
+
+</resources>
